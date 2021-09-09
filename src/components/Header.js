@@ -7,7 +7,6 @@ import { FaReact } from 'react-icons/fa';
 
 const Header = () => {
   return ( 
-
     <header className="header">
       <div className="hero-container">
         <h1 className="headline">Hi, my name is <span className="h1Color">Fran Canete</span><br/> I'm a Frontend Developer</h1>
