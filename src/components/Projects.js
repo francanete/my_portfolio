@@ -53,7 +53,7 @@ const Projects = () => {
             learner who's always interested in expanding my skills.
           </p>
           <a
-            href="https://cryptotracker-fran.netlify.app"
+            href="https://photo-gallery-flickr.netlify.app"
             target="_blank"
             rel="noreferrer"
           >
