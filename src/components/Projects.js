@@ -16,6 +16,9 @@ const Projects = () => {
             I’ve been a professional cook and gardener and am a life-long
             learner who's always interested in expanding my skills.
           </p>
+          <p>
+            <small>React, React States, React Hooks, Fetch</small>
+          </p>
           <a
             href="https://cryptotracker-fran.netlify.app"
             target="_blank"
