@@ -310,4 +310,8 @@ a.social {
     margin: 0px;
     padding: 20px 15px 0px;
   }
+
+  .about-img {
+    margin-bottom: 3.5rem;
+  }
 }

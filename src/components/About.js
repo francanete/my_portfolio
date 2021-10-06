@@ -6,7 +6,12 @@ const About = () => {
       </h2>
       <div className="flex-container">
         <section className="card">
-          <img src="images/francanete.jpg" alt="fran canete" id="img-about" />
+          <img
+            className="about-img"
+            src="images/francanete.jpg"
+            alt="fran canete"
+            id="img-about"
+          />
         </section>
 
         <section className="card" id="about-text">
