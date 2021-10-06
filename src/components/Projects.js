@@ -81,7 +81,7 @@ const Projects = () => {
       </div>
       <div className="flex-container projects">
         <div className="card">
-          <h2 className="project-title">The Amazing Project #1</h2>
+          <h2 className="project-title">Star Wars Battle</h2>
           <p>
             I’m an aspiring web designer who loves everything about the web.
             I've lived in lots of different places and have worked in lots of
@@ -92,11 +92,27 @@ const Projects = () => {
             I’ve been a professional cook and gardener and am a life-long
             learner who's always interested in expanding my skills.
           </p>
-          <button className="cta-button">See Live</button>
-          <i className="fab fa-github fa-hero" id="second-bttn-icon"></i>
+          <a
+            href="https://star-wars-battle.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="cta-button">See Live</button>
+          </a>
+          {/* <button className="cta-button">See Live</button> */}
+          <i className="fab fa-github fa-hero" id="second-bttn-icon">
+            <a
+              href="https://github.com/francanete/star-wars"
+              target="_blank"
+              rel="noreferrer"
+              className="social"
+            >
+              <FaGithub fill="black" />
+            </a>
+          </i>
         </div>
         <div className="card">
-          <img src="./images/project.jpeg" alt="projects" id="img-project" />
+          <img src="./images/project3.png" alt="projects" id="img-project" />
         </div>
       </div>
     </div>
