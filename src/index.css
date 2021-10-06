@@ -156,10 +156,14 @@ p {
 .card {
   margin: 0px;
   padding: 20px 40px 5px;
-  max-width: 1200px;
+  max-width: 1000px;
   text-align: left;
   vertical-align: center;
   transition: all 0.5s;
+}
+
+.card-image {
+  width: 600px;
 }
 
 #second-bttn-icon {
