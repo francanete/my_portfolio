@@ -27,16 +27,16 @@ const Footer = () => {
             <FaGithub fill="white" />
           </a>
         </li>
-        <li>
+        {/* <li>
           <a
-            href="https://twitter.com/home"
+            href="https://twitter.com/francanetecom"
             target="_blank"
             rel="noreferrer"
             className="social"
           >
             <FaTwitterSquare fill="white" />
           </a>
-        </li>
+        </li> */}
       </ul>
     </footer>
   );
