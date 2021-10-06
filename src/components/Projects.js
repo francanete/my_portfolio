@@ -93,7 +93,7 @@ const Projects = () => {
             all the necessary data. May the code be with you!
           </p>
           <p>
-            <small>React, React States, React Hooks, Fetch</small>
+            <small>React, REST API, Axios, State Hook, Bootstrap.</small>
           </p>
           <a
             href="https://star-wars-battle.netlify.app"
